@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\multilanguage\u002Bbinding exception\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\viewmodel\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\multilanguage\u002Bbinding exception\\resources\\myresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\resources\\myresource.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\multilanguage\u002Bbinding exception\\model\\languageoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\model\\languageoption.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|e:\\l\u1EADp tr\u00ECnh wpf\\multilanguage\u002Bbinding exception\\multilanguage\u002Bbinding exception\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\multilanguage\u002Bbinding exception\\resources\\myresource.vi-vn.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\resources\\myresource.vi-vn.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\multilanguage\u002Bbinding exception\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\viewmodel\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\multilanguage\u002Bbinding exception\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E4D0815-3B6B-4F04-A244-94FAED6DF44A}|MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception.csproj|solutionrelative:multilanguage\u002Bbinding exception\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\MainWindow.xaml",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\MainWindow.xaml",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T12:35:53.5Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\ViewModel\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\ViewModel\\MainViewModel.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\ViewModel\\MainViewModel.cs",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\ViewModel\\MainViewModel.cs",
+              "ViewState": "AgIAADUAAAAAAAA03AMwwEAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:50:21.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "myResource.vi-VN.xaml",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\Resources\\myResource.vi-VN.xaml",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\Resources\\myResource.vi-VN.xaml",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\Resources\\myResource.vi-VN.xaml",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\Resources\\myResource.vi-VN.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T12:41:19.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LanguageOption.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\Model\\LanguageOption.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\Model\\LanguageOption.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\Model\\LanguageOption.cs",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\Model\\LanguageOption.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:49:02.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "myResource.xaml",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\Resources\\myResource.xaml",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\Resources\\myResource.xaml",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\Resources\\myResource.xaml",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\Resources\\myResource.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-08-22T12:37:38.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\ViewModel\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\ViewModel\\BaseViewModel.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\ViewModel\\BaseViewModel.cs",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\ViewModel\\BaseViewModel.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:45:32.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MultiLanguage\u002BBinding Exception\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\L\u1EADp tr\u00ECnh WPF\\MultiLanguage\u002BBinding Exception\\MultiLanguage\u002BBinding Exception\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MultiLanguage\u002BBinding Exception\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T12:35:50.588Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

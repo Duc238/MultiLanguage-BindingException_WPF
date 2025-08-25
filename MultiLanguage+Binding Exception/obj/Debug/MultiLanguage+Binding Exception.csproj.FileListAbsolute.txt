@@ -1,0 +1,19 @@
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\bin\Debug\MultiLanguage+Binding Exception.exe.config
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\bin\Debug\MultiLanguage+Binding Exception.exe
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\bin\Debug\MultiLanguage+Binding Exception.pdb
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.csproj.AssemblyReference.cache
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\Resources\myResource.baml
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MainWindow.g.cs
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\App.g.cs
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception_MarkupCompile.cache
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception_MarkupCompile.lref
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MainWindow.baml
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.g.resources
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage_Binding_Exception.Properties.Resources.resources
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.csproj.GenerateResource.cache
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.csproj.CoreCompileInputs.cache
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.exe
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.pdb
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\MultiLanguage+Binding Exception.exe.config
+E:\Lập trình WPF\MultiLanguage+Binding Exception\MultiLanguage+Binding Exception\obj\Debug\Resources\myResource.vi-VN.baml
